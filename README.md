@@ -40,7 +40,7 @@ Before deploying the contracts, it's important to note the following:
 
 To get started with the Presale and Test Token repository, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/your-username/presale-and-test-token.git`
+1. Clone the repository: `git clone https://github.com/atomauro/presale-and-test-token.git`
 
 2. Review the contract files and their documentation for detailed information on their functionality, usage, and deployment considerations.
 
